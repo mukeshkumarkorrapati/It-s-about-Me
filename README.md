@@ -10,7 +10,7 @@ Cloud & DevOps Engineer passionate about building scalable cloud architectures, 
 - ☁️ **Cloud Platforms:** Microsoft Azure
 - 🛠️ **Tools & Practices:** Terraform, Docker, Kubernetes, CI/CD, Linux, Bash/Shell scripting.
 - 🎯 **Currently Doing:** Advancing hands-on cloud automation architectures and refining infrastructure security workflows.
-- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile-here) • [Email](mailto:your-email@example.com)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mukeshkumarkorrapati/)) • [Email](mailto:mukeshkumarkorrapati@gmail.com)
 
 ---
 
